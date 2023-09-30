@@ -6,5 +6,5 @@ I am Hetarth Jain, student at [JSS Science and Technology University](https://js
 - 👯 I’m looking to collaborate in Open Source Projects.
 - 📫 Contact me through [LinkedIn](https://www.linkedin.com/in/hetarth-jain/)
 
-[![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HetarthJain&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HetarthJain&theme=dark)](https://git.io/streak-stats)
+[![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HetarthJain&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=HetarthJain&theme=dark)](https://git.io/streak-stats)
+
